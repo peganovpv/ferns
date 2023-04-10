@@ -1,0 +1,15 @@
+{
+  "name": "ferns",
+  "version": "1.0.0",
+  "description": "FERNS CLI package for NPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Peganov.P.V",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^10.0.0",
+    "execa": "^7.1.1"
+  }
+}
