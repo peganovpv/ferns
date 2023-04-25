@@ -18,10 +18,11 @@ async function setupFERNS () {
   console.log('Setting up client...')
   await execa.command('npx create-react-app client')
   process.chdir('client')
+  await execa.command('')
 
   // Install dependencies
-  console.log('Setting up Firebase and Stripe')
-  await execa.command('npm i firebase react-stripe-js stripe')
+  console.log('Setting up Dependencies')
+  await execa.command('npm i firebase react-stripe-js stripe react-router-dom @mui/material @emotion/react @emotion/styled')
   
   // Create server folder
   process.chdir('..')
