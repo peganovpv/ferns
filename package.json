@@ -4,10 +4,10 @@
   "description": "NPM package for FERNS tech stack boilerplate",
   "main": "index.js",
   "bin": {
-    "create-ferns-app": "index.js"
+    "ferns-go": "index.js"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"No Tests Needed For Now\""
   },
   "repository": {
     "type": "git",
