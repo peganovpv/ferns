@@ -1,5 +1,5 @@
 {
-  "name": "ferns",
+  "name": "ferns-js",
   "version": "1.0.0",
   "description": "NPM package for FERNS tech stack boilerplate",
   "main": "index.js",
