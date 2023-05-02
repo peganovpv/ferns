@@ -1,6 +1,6 @@
 # FERNS
 
-![Ferns Logo](./images/FERNS_logo.png)
+![Ferns Logo](./assets/ferns-logo.png)
 
 ## What is FERNS?
  - #### Firebase Express React Node Stripe
